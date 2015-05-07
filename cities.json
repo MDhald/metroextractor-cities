@@ -2792,6 +2792,14 @@
                         "right": "-63.410"
                     }
                 },
+                "haldimand_canada": {
+                    "bbox": {
+                        "top": "43.187",
+                        "left": "-80.348",
+                        "bottom": "42.790",
+                        "right": "-79.278"
+                    }
+                },
                 "hamilton_canada": {
                     "bbox": {
                         "top": "43.317",
